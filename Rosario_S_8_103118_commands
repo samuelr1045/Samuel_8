@@ -1,0 +1,28 @@
+    1  ls
+    2  sudo
+    3  sudo -i
+    4  dw
+    5  ssh-keygen
+    6  cd
+    7  su
+    8  sudo apt-get install xclip
+    9  sudo yum install xclip
+   10  cd .ssh/
+   11  ls -a
+   12  cat id_rsa
+   13  xclip -sel clip < ~/.ssh/id_rsa.pub
+   14  xclip
+   15  cat ~/.ssh/id_rsa.pub
+   16  cat history
+   17  history
+   18  history > ../file2
+   19  cd ..
+   20  ls
+   21  ifconfig
+   22  history > ../file2
+   23  history < ../file2
+   24  history > /dev/null/file2
+   25  history > /dev/null>file2
+   26  ls
+   27* cat f
+   28  history > /dev/null>Rosario_S_8_103118_commands
